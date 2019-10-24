@@ -1,4 +1,8 @@
 abc
 111
 hello
+<<<<<<< Updated upstream
 123
+=======
+1234
+>>>>>>> Stashed changes
